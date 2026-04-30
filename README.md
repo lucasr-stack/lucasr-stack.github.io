@@ -1,3 +1,2 @@
 # CV Project
-
-🔗 https://lucasr-stack.github.io/estudos/
+https://github.com/lucasr-stack/lucasr-stack.github.io
