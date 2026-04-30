@@ -1,2 +1,2 @@
 # CV Project
-https://lucasr-stack.github.io/
+https://github.com/lucasr-stack/lucasr-stack.github.io/
