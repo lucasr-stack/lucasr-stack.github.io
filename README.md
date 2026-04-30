@@ -1,2 +1,2 @@
 # CV Project
-https://lucasr-stack.github.io/
+https://roadmap.sh/projects/single-page-cv
